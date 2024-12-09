@@ -57,7 +57,7 @@ const Main = () => {
           </>
           : <div className="result">
             <div className="result-title">
-              <img src="public/b5ae3e1e-0950-4bb9-8b9c-92a9e8c06fcc.jpeg" alt="" />
+              <img src="public/6942ce0b-4fdb-483f-92ae-c4b467cf4880.jpeg" alt="" />
               <p>{recentPrompt}</p>
             </div>
             <div className="result-data">
